@@ -1,0 +1,3 @@
+# tensorflow_recommend_system
+recommend system
+基于tensorflow的推荐系统，里面有很多数据处理的小tricks
