@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/PycharmProjects/recommend_DIY/dataset/model_store/NFM/frappe"
+all_model_checkpoint_paths: "D:/PycharmProjects/recommend_DIY/dataset/model_store/NFM/frappe"

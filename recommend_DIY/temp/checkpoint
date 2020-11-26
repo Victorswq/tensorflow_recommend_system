@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/PycharmProjects/recommend_DIY/temp/model_NeuMF"
+all_model_checkpoint_paths: "D:/PycharmProjects/recommend_DIY/temp/model_NeuMF"
